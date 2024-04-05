@@ -24,7 +24,7 @@ const LogicGate = () => {
 
   return (
     <section className="logic-gate">
-      <NavBar2
+      <NavBar3
         frameDivMargin="unset"
         onLogoClick={onLogoClick}
         onAboutTextClick={onAboutTextClick}

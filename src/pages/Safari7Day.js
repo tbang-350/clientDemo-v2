@@ -36,7 +36,7 @@ const Safari7Day = () => {
 
   return (
     <div className="safari7day">
-      <NavBar2
+      <NavBar3
         frameDivMargin="unset"
         onLogoClick={onLogoClick}
         onAboutTextClick={onAboutTextClick}

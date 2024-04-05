@@ -32,7 +32,7 @@ const SafariBlue = () => {
 
   return (
     <div className="safariblue">
-      <NavBar2
+      <NavBar3
         frameDivMargin="0"
         onLogoClick={onLogoClick}
         onAboutTextClick={onAboutTextClick}

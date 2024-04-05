@@ -27,7 +27,7 @@ const Lodge4Day = () => {
 
   return (
     <div className="lodge4day">
-      <NavBar2
+      <NavBar3
         onLogoClick={onLogoClick}
         onAboutTextClick={onAboutTextClick}
         onContactTextClick={onContactTextClick}
