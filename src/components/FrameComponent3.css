@@ -1,0 +1,419 @@
+.do-you-have {
+  margin: 0;
+  position: relative;
+  font-size: var(--font-size-16xl);
+  text-transform: uppercase;
+  font-weight: 400;
+  font-family: var(--font-chesna-grotesk-black);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  max-width: 100%;
+}
+.placeholdertext,
+.textarea-icon {
+  height: 30.625rem;
+  width: 75.563rem;
+  position: relative;
+  display: none;
+  max-width: 100%;
+}
+.placeholdertext {
+  height: 5.25rem;
+  width: 54.519rem;
+  font-size: var(--font-size-xl);
+  line-height: 1.4rem;
+  text-transform: capitalize;
+  display: inline-block;
+  font-family: var(--font-chesna-grotesk-thin);
+  color: var(--color-black);
+  text-align: left;
+  flex-shrink: 0;
+  z-index: 1;
+}
+.do-you-have-any-preferences-fo-parent,
+.preferencetextarea {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.preferencetextarea {
+  align-self: stretch;
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  flex-direction: row;
+  padding: var(--padding-9xl) var(--padding-8xl);
+  min-height: 30.625rem;
+}
+.do-you-have-any-preferences-fo-parent {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-base);
+}
+.frame-wrapper12 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-10xs) var(--padding-4xs) 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.first-name1,
+.your-contact-details {
+  position: relative;
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+}
+.your-contact-details {
+  margin: 0;
+  font-size: var(--font-size-16xl);
+  text-transform: uppercase;
+  font-weight: 400;
+  font-family: var(--font-chesna-grotesk-black);
+  max-width: 100%;
+}
+.first-name1 {
+  font-size: var(--font-size-xl);
+  text-transform: capitalize;
+  font-family: var(--font-chesna-grotesk-regular);
+  min-width: 7.188rem;
+}
+.textinput-2 {
+  border: 1px solid var(--color-black);
+  outline: 0;
+  background-color: transparent;
+  align-self: stretch;
+  height: 4.438rem;
+  position: relative;
+  box-sizing: border-box;
+  min-width: 15.625rem;
+}
+.first-name-group {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-xs);
+}
+.email1 {
+  position: relative;
+  font-size: var(--font-size-xl);
+  text-transform: capitalize;
+  font-family: var(--font-chesna-grotesk-regular);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  min-width: 4.063rem;
+}
+.frame-parent38 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-43xl);
+  min-width: 23.5rem;
+  max-width: 100%;
+}
+.last-name1 {
+  position: relative;
+  font-size: var(--font-size-xl);
+  text-transform: capitalize;
+  font-family: var(--font-chesna-grotesk-regular);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  min-width: 7.063rem;
+}
+.textinput-1 {
+  border: 1px solid var(--color-black);
+  outline: 0;
+  background-color: transparent;
+  align-self: stretch;
+  height: 4.438rem;
+  position: relative;
+  box-sizing: border-box;
+  min-width: 15.625rem;
+}
+.frame-parent37,
+.last-name-input {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.last-name-input {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-xs);
+  min-width: 23.5rem;
+}
+.frame-parent37 {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: var(--gap-22xl);
+}
+.emailinput1 {
+  align-self: stretch;
+  height: 4.438rem;
+  position: relative;
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+}
+.frame-parent36 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-xs);
+  max-width: 100%;
+}
+.frame-wrapper14 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-4xs);
+  box-sizing: border-box;
+}
+.frame-wrapper13,
+.frame-wrapper14,
+.your-contact-details-parent {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.your-contact-details-parent {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-20xl);
+}
+.frame-wrapper13 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 0 var(--padding-7xs) 0 0;
+  box-sizing: border-box;
+}
+.phone-number {
+  position: relative;
+  font-size: var(--font-size-xl);
+  text-transform: capitalize;
+  font-family: var(--font-chesna-grotesk-regular);
+  color: var(--color-black);
+  text-align: left;
+}
+.phonenumberinput {
+  align-self: stretch;
+  height: 4.438rem;
+  position: relative;
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+}
+.phone-number-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-xs);
+  min-width: 23.5rem;
+  max-width: 100%;
+}
+.country1 {
+  position: relative;
+  font-size: var(--font-size-xl);
+  text-transform: capitalize;
+  font-family: var(--font-chesna-grotesk-regular);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  min-width: 5.688rem;
+}
+.sign-up-form-child {
+  align-self: stretch;
+  height: 4.438rem;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.sign-up-form1,
+.submit-proposal {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.sign-up-form1 {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-xs);
+  min-width: 23.5rem;
+}
+.submit-proposal {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: var(--gap-28xl);
+}
+.frame-input {
+  margin: 0;
+  height: 1.75rem;
+  width: 1.5rem;
+}
+.i-hereby-give {
+  flex: 1;
+  position: relative;
+  font-size: var(--font-size-xl);
+  text-transform: capitalize;
+  font-family: var(--font-chesna-grotesk-light);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  min-width: 43.313rem;
+  max-width: 100%;
+}
+.frame-parent39,
+.permission-checkbox,
+.permission-checkbox-inner {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-parent39 {
+  flex: 1;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: var(--gap-mid);
+}
+.permission-checkbox,
+.permission-checkbox-inner {
+  box-sizing: border-box;
+}
+.permission-checkbox-inner {
+  width: 71.688rem;
+  flex-direction: row;
+  padding: 0 var(--padding-xl);
+}
+.permission-checkbox {
+  align-self: stretch;
+  flex-direction: column;
+  padding: 0 0 var(--padding-3xs);
+  gap: var(--gap-12xl);
+}
+.submit-this-travel {
+  position: relative;
+  font-size: var(--font-size-xl);
+  text-transform: uppercase;
+  font-family: var(--font-chesna-grotesk-black);
+  color: var(--color-white);
+  text-align: left;
+}
+.submit-proposal-button,
+.submit-proposal-button-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.submit-proposal-button {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-mid) var(--padding-xl);
+  background-color: var(--color-royalblue-200);
+  width: 52.25rem;
+}
+.submit-proposal-button:hover {
+  background-color: var(--color-royalblue-100);
+}
+.submit-proposal-button-wrapper {
+  align-self: stretch;
+  padding: 0 var(--padding-xl) 0 var(--padding-3xl);
+}
+.frame-parent35 {
+  margin: 0;
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-27xl);
+  max-width: 100%;
+}
+@media screen and (max-width: 900px) {
+  .do-you-have,
+  .your-contact-details {
+    font-size: var(--font-size-9xl);
+  }
+  .frame-parent38 {
+    gap: 1.938rem 3.875rem;
+    min-width: 100%;
+  }
+  .last-name-input {
+    min-width: 100%;
+  }
+  .frame-parent37 {
+    gap: var(--gap-xl);
+  }
+  .your-contact-details-parent {
+    gap: 1.188rem 2.438rem;
+  }
+  .submit-proposal {
+    gap: var(--gap-4xl);
+  }
+  .i-hereby-give {
+    min-width: 100%;
+  }
+  .permission-checkbox {
+    gap: 0.938rem 1.938rem;
+  }
+  .frame-parent35 {
+    gap: 1.438rem 2.875rem;
+  }
+}
+@media screen and (max-width: 450px) {
+  .do-you-have {
+    font-size: var(--font-size-2xl);
+  }
+  .placeholdertext {
+    font-size: var(--font-size-base);
+  }
+  .your-contact-details {
+    font-size: var(--font-size-2xl);
+  }
+  .email1,
+  .first-name1 {
+    font-size: var(--font-size-base);
+  }
+  .frame-parent38 {
+    gap: 0.938rem 3.875rem;
+  }
+  .last-name1,
+  .phone-number {
+    font-size: var(--font-size-base);
+  }
+  .phone-number-parent {
+    min-width: 100%;
+  }
+  .country1 {
+    font-size: var(--font-size-base);
+  }
+  .sign-up-form1 {
+    min-width: 100%;
+  }
+  .i-hereby-give,
+  .submit-this-travel {
+    font-size: var(--font-size-base);
+  }
+}

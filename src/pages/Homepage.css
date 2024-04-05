@@ -1,0 +1,556 @@
+.homepage-child {
+  width: 64.563rem;
+  height: 64.563rem;
+  position: relative;
+  object-fit: cover;
+  display: none;
+  max-width: 100%;
+}
+.request-a-quote1 {
+  flex: 1;
+  position: relative;
+  font-size: var(--font-size-6xl);
+  text-transform: uppercase;
+  font-family: var(--font-chesna-grotesk-black);
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  max-width: 100%;
+}
+.bookinglinkcontainer,
+.request-a-tour-quote {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.request-a-tour-quote {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-base) var(--padding-45xl);
+  background-color: var(--color-tomato-200);
+  width: 32.25rem;
+  justify-content: flex-start;
+}
+.request-a-tour-quote:hover {
+  background-color: var(--color-tomato-100);
+}
+.bookinglinkcontainer {
+  align-self: stretch;
+  background-color: var(--color-bisque);
+  overflow: hidden;
+  justify-content: center;
+  padding: 5.25rem var(--padding-xl) 5.313rem;
+  z-index: 1;
+}
+.logo-icon1 {
+  height: 3.313rem;
+  width: 14.438rem;
+  position: relative;
+}
+.logo-wrapper {
+  height: 3.313rem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-9xs);
+  box-sizing: border-box;
+}
+.call-undefined-glyph-unde1 {
+  width: 2.125rem;
+  height: 2.125rem;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.travel-advice2 {
+  height: 2.188rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-12xs) 0 0;
+  box-sizing: border-box;
+}
+.div1 {
+  position: relative;
+  white-space: nowrap;
+}
+.travel-advice-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-8xs);
+}
+.isles-savannah1 {
+  height: 1.563rem;
+  flex: 1;
+  position: relative;
+  letter-spacing: 0.24em;
+  display: inline-block;
+  z-index: 1;
+}
+.frame-parent21,
+.isles-savannah-container {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.isles-savannah-container {
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-3xs);
+  font-size: var(--font-size-lg);
+  font-family: var(--font-chesna-grotesk-medium);
+}
+.frame-parent21 {
+  flex-direction: column;
+  gap: var(--gap-20xl);
+}
+.contact3,
+.privacy-policy2,
+.terms-and-condition1 {
+  position: relative;
+  z-index: 1;
+}
+.contact3,
+.privacy-policy2 {
+  display: inline-block;
+  min-width: 7rem;
+}
+.contact3 {
+  min-width: 4.313rem;
+}
+.terms-and-condition-parent {
+  flex-direction: column;
+  gap: var(--gap-18xl);
+}
+.frame-parent19,
+.frame-parent20,
+.frame-wrapper8,
+.terms-and-condition-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-wrapper8 {
+  flex-direction: row;
+  padding: 0 var(--padding-3xs);
+  font-size: var(--font-size-lg);
+  font-family: var(--font-chesna-grotesk-light);
+}
+.frame-parent19,
+.frame-parent20 {
+  flex-direction: column;
+}
+.frame-parent20 {
+  align-self: stretch;
+  gap: var(--gap-34xl);
+}
+.frame-parent19 {
+  width: 20.125rem;
+  gap: var(--gap-45xl);
+  max-width: 100%;
+  font-size: var(--font-size-6xl);
+  font-family: var(--font-chesna-grotesk-black);
+}
+.travel-information7 {
+  margin: 0;
+}
+.travel-information6 {
+  height: 1.75rem;
+  position: relative;
+  text-transform: uppercase;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.tanzania-weather2,
+.travel-advice3,
+.when-to-visit2,
+.yellow-fever-requirements2 {
+  margin-block-start: 0;
+  margin-block-end: 49px;
+}
+.flying-doctors-services2 {
+  margin: 0;
+}
+.travel-advice-yellow-container2 {
+  width: 12.563rem;
+  position: relative;
+  font-size: var(--font-size-base);
+  text-transform: capitalize;
+  font-family: var(--font-chesna-grotesk-light);
+  display: inline-block;
+}
+.travel-information-parent1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-21xl);
+}
+.travel-information9 {
+  margin: 0;
+}
+.travel-information8 {
+  height: 1.75rem;
+  position: relative;
+  text-transform: uppercase;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.tanzania-weather3,
+.travel-advice4,
+.when-to-visit3,
+.yellow-fever-requirements3 {
+  margin-block-start: 0;
+  margin-block-end: 49px;
+}
+.flying-doctors-services3 {
+  margin: 0;
+}
+.travel-advice-yellow-container3 {
+  width: 12.563rem;
+  position: relative;
+  font-size: var(--font-size-base);
+  text-transform: capitalize;
+  font-family: var(--font-chesna-grotesk-light);
+  display: inline-block;
+}
+.travel-information-parent2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-21xl);
+}
+.footer-inner1,
+.frame-parent22 {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent22 {
+  width: 35.125rem;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.footer-inner1 {
+  width: 39.25rem;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: var(--padding-6xs) 0 0;
+  box-sizing: border-box;
+}
+.receive-travel-ideas1,
+.sign-up-for1 {
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.sign-up-for1 {
+  width: 21.181rem;
+  height: 1.988rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  debug_commit: f6aba90;
+}
+.receive-travel-ideas1 {
+  width: 20.813rem;
+  height: 3.125rem;
+  font-size: var(--font-size-base);
+  font-family: var(--font-chesna-grotesk-light);
+  color: var(--color-black);
+  text-align: left;
+  max-width: 100%;
+}
+.frame-child14 {
+  height: 1.988rem;
+  width: 12.719rem;
+  position: relative;
+  background-color: var(--color-white);
+  display: none;
+}
+.your-name1 {
+  width: 3.694rem;
+  border: 0;
+  outline: 0;
+  font-family: var(--font-chesna-grotesk-thin);
+  font-size: var(--font-size-3xs);
+  background-color: transparent;
+  height: 0.994rem;
+  position: relative;
+  text-transform: capitalize;
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  padding: 0;
+  z-index: 1;
+}
+.frame-child15,
+.rectangle-parent3 {
+  background-color: var(--color-white);
+}
+.rectangle-parent3 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-5xs) var(--padding-base-9) var(--padding-5xs-9);
+  box-sizing: border-box;
+  min-width: 8.25rem;
+}
+.frame-child15 {
+  height: 1.988rem;
+  width: 12.719rem;
+  position: relative;
+  display: none;
+}
+.your-email1 {
+  width: 3.556rem;
+  border: 0;
+  outline: 0;
+  font-family: var(--font-chesna-grotesk-thin);
+  font-size: var(--font-size-3xs);
+  background-color: transparent;
+  height: 0.994rem;
+  position: relative;
+  text-transform: capitalize;
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  padding: 0;
+  z-index: 1;
+}
+.frame-parent23,
+.receive-travel-ideas-destinat-group,
+.rectangle-parent4 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.rectangle-parent4 {
+  flex: 1;
+  background-color: var(--color-white);
+  padding: var(--padding-5xs) var(--padding-base-9) var(--padding-5xs-9);
+  box-sizing: border-box;
+  min-width: 8.25rem;
+}
+.frame-parent23,
+.receive-travel-ideas-destinat-group {
+  align-self: stretch;
+  gap: var(--gap-base);
+}
+.receive-travel-ideas-destinat-group {
+  flex-direction: column;
+  gap: var(--gap-mini-4);
+  max-width: 100%;
+}
+.privacy-policy3 {
+  text-decoration: underline;
+}
+.by-signing-up-container1 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-3xs);
+  text-transform: capitalize;
+  font-family: var(--font-chesna-grotesk-light);
+  color: var(--color-black);
+  text-align: left;
+  flex-shrink: 0;
+  debug_commit: f6aba90;
+}
+.perperson {
+  width: 15.625rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-9xs) 0 0;
+  box-sizing: border-box;
+}
+.sign-up1 {
+  flex: 1;
+  position: relative;
+  font-size: var(--font-size-3xs);
+  text-transform: uppercase;
+  font-family: var(--font-chesna-grotesk-black);
+  color: var(--color-white);
+  text-align: center;
+  flex-shrink: 0;
+}
+.image-gallery,
+.sign-up-container {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.sign-up-container {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-6xs-6) var(--padding-3xs) var(--padding-6xs-7);
+  background-color: var(--color-darkorange);
+  width: 4.338rem;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  flex-shrink: 0;
+  debug_commit: f6aba90;
+}
+.sign-up-container:hover {
+  background-color: var(--color-chocolate);
+}
+.image-gallery {
+  align-self: stretch;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.mailing-list-signup,
+.progress-bar {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.mailing-list-signup {
+  margin: 0;
+  align-items: flex-end;
+  padding: 0 0 0 var(--padding-12xs);
+  box-sizing: border-box;
+  gap: var(--gap-6xl-8);
+  flex-shrink: 0;
+  debug_commit: f6aba90;
+}
+.progress-bar {
+  align-items: flex-start;
+  gap: var(--gap-base-2);
+}
+.columns-child {
+  height: 2.75rem;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+}
+.columns,
+.progress-bar-parent {
+  align-self: stretch;
+  display: flex;
+  max-width: 100%;
+}
+.columns {
+  height: 2.75rem;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-2xs-4) 0 var(--padding-base);
+  box-sizing: border-box;
+}
+.progress-bar-parent {
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-77xl);
+}
+.footer-inner2,
+.footer1,
+.homepage {
+  display: flex;
+  align-items: flex-start;
+}
+.footer-inner2 {
+  width: 26.463rem;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: var(--padding-6xs) 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.footer1,
+.homepage {
+  overflow: hidden;
+}
+.footer1 {
+  align-self: stretch;
+  background-color: var(--color-lightgray);
+  flex-direction: row;
+  justify-content: space-between;
+  padding: var(--padding-50xl) var(--padding-111xl) var(--padding-95xl)
+    var(--padding-92xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  gap: var(--gap-xl);
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-chesna-grotesk-medium);
+}
+.homepage {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  flex-direction: column;
+  justify-content: flex-start;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1650px) {
+  .footer1 {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+}
+@media screen and (max-width: 1300px) {
+  .footer1 {
+    padding-left: var(--padding-36xl);
+    padding-right: var(--padding-46xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 900px) {
+  .request-a-tour-quote {
+    padding-left: var(--padding-13xl);
+    padding-right: var(--padding-13xl);
+    box-sizing: border-box;
+  }
+  .frame-parent22 {
+    flex-wrap: wrap;
+  }
+  .footer1 {
+    padding: var(--padding-26xl) var(--padding-13xl) var(--padding-55xl)
+      var(--padding-8xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .div1,
+  .request-a-quote1 {
+    font-size: var(--font-size-xl);
+  }
+  .frame-parent21 {
+    gap: 1.188rem 2.438rem;
+  }
+  .frame-parent20 {
+    gap: 1.625rem 3.313rem;
+  }
+  .frame-parent19 {
+    gap: 2rem 4rem;
+  }
+  .sign-up-for1,
+  .travel-information6,
+  .travel-information8 {
+    font-size: var(--font-size-base);
+  }
+  .frame-parent23,
+  .image-gallery {
+    flex-wrap: wrap;
+  }
+  .progress-bar-parent {
+    gap: 3rem 6rem;
+  }
+}

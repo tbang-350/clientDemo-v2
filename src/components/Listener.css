@@ -1,0 +1,65 @@
+.handler-child {
+  height: 1.875rem;
+  width: 1.875rem;
+  position: relative;
+}
+.flying-doctors-insurance {
+  flex: 1;
+  position: relative;
+  text-transform: capitalize;
+  display: inline-block;
+  min-width: 13.313rem;
+  max-width: 100%;
+}
+.handler {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-4xs);
+  max-width: 100%;
+}
+.stack-child {
+  height: 1.875rem;
+  width: 1.875rem;
+  position: relative;
+}
+.overnight-stays-aligned {
+  align-self: stretch;
+  position: relative;
+  text-transform: capitalize;
+}
+.overnight-stays-aligned-with-t-wrapper {
+  flex: 1;
+  flex-direction: column;
+  padding: var(--padding-12xs) 0 0;
+}
+.listener,
+.overnight-stays-aligned-with-t-wrapper,
+.stack1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.stack1 {
+  width: 19.063rem;
+  height: 2.313rem;
+  flex-direction: row;
+  gap: var(--gap-smi);
+}
+.listener {
+  align-self: stretch;
+  flex-direction: column;
+  gap: var(--gap-5xl);
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+  font-family: var(--font-nexa-xbold);
+}
+@media screen and (max-width: 450px) {
+  .handler {
+    flex-wrap: wrap;
+  }
+}

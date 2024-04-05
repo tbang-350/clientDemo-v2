@@ -1,0 +1,460 @@
+.logo-icon5 {
+  height: 3.313rem;
+  width: 14.438rem;
+  position: relative;
+}
+.sign-up-button {
+  height: 3.313rem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-9xs);
+  box-sizing: border-box;
+}
+.call-undefined-glyph-unde3 {
+  width: 2.125rem;
+  height: 2.125rem;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.call-undefined-glyph-unde-wrapper {
+  height: 2.188rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-12xs) 0 0;
+  box-sizing: border-box;
+}
+.div3 {
+  position: relative;
+  white-space: nowrap;
+}
+.contact-link {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-8xs);
+}
+.isles-savannah3 {
+  height: 1.563rem;
+  position: relative;
+  letter-spacing: 0.24em;
+  display: inline-block;
+  z-index: 1;
+}
+.isles-savannah-frame,
+.privacy-policy-link {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.isles-savannah-frame {
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-7xs);
+  font-size: var(--font-size-lg);
+  font-family: var(--font-chesna-grotesk-medium);
+}
+.privacy-policy-link {
+  flex-direction: column;
+  gap: var(--gap-20xl);
+}
+.contact7,
+.privacy-policy6,
+.terms-and-condition3 {
+  position: relative;
+  z-index: 1;
+}
+.contact7,
+.privacy-policy6 {
+  display: inline-block;
+  min-width: 7rem;
+}
+.contact7 {
+  min-width: 4.313rem;
+}
+.terms-and-conditions-terms {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-18xl);
+}
+.terms-and-conditions-terms-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-3xs);
+  font-size: var(--font-size-lg);
+  font-family: var(--font-chesna-grotesk-light);
+}
+.sign-up-button-parent,
+.terms-and-conditions-link3 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.terms-and-conditions-link3 {
+  align-self: stretch;
+  gap: var(--gap-34xl);
+}
+.sign-up-button-parent {
+  width: 20.125rem;
+  gap: var(--gap-45xl);
+  max-width: 100%;
+  font-size: var(--font-size-6xl);
+  font-family: var(--font-chesna-grotesk-black);
+}
+.travel-information15 {
+  margin: 0;
+}
+.travel-information14 {
+  position: relative;
+  text-transform: uppercase;
+}
+.tanzania-weather6,
+.travel-advice7,
+.when-to-visit6,
+.yellow-fever-requirements6 {
+  margin-block-start: 0;
+  margin-block-end: 49px;
+}
+.flying-doctors-services6 {
+  margin: 0;
+}
+.travel-advice-yellow-container6 {
+  width: 12.438rem;
+  position: relative;
+  font-size: var(--font-size-base);
+  text-transform: capitalize;
+  font-family: var(--font-chesna-grotesk-extra-light);
+  display: inline-block;
+}
+.travel-information-parent5 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-21xl);
+}
+.travel-information17 {
+  margin: 0;
+}
+.travel-information16 {
+  position: relative;
+  text-transform: uppercase;
+}
+.tanzania-weather7,
+.travel-advice8,
+.when-to-visit7,
+.yellow-fever-requirements7 {
+  margin-block-start: 0;
+  margin-block-end: 49px;
+}
+.flying-doctors-services7 {
+  margin: 0;
+}
+.travel-advice-yellow-container7 {
+  width: 12.438rem;
+  position: relative;
+  font-size: var(--font-size-base);
+  text-transform: capitalize;
+  font-family: var(--font-chesna-grotesk-extra-light);
+  display: inline-block;
+}
+.travel-information-parent6 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-21xl);
+}
+.contact-terms,
+.frame-parent40 {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent40 {
+  width: 35.125rem;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.contact-terms {
+  width: 39.25rem;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: var(--padding-6xs) 0 0;
+  box-sizing: border-box;
+}
+.sign-up-for3 {
+  width: 21.181rem;
+  height: 1.988rem;
+  position: relative;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  display: inline-block;
+  flex-shrink: 0;
+  debug_commit: f6aba90;
+}
+.receive-travel-ideas3,
+.your-name3 {
+  position: relative;
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+}
+.receive-travel-ideas3 {
+  width: 20.813rem;
+  height: 3.125rem;
+  font-size: var(--font-size-base);
+  font-family: var(--font-chesna-grotesk-light);
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.your-name3 {
+  width: 3.694rem;
+  border: 0;
+  outline: 0;
+  font-family: var(--font-chesna-grotesk-thin);
+  font-size: var(--font-size-3xs);
+  background-color: transparent;
+  height: 0.994rem;
+  text-transform: capitalize;
+  padding: 0;
+}
+.your-name-wrapper {
+  flex: 1;
+  background-color: var(--color-white);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-5xs) var(--padding-base-9) var(--padding-5xs-9);
+  box-sizing: border-box;
+  min-width: 8.25rem;
+}
+.your-email3 {
+  width: 3.556rem;
+  border: 0;
+  outline: 0;
+  font-family: var(--font-chesna-grotesk-thin);
+  font-size: var(--font-size-3xs);
+  background-color: transparent;
+  height: 0.994rem;
+  position: relative;
+  text-transform: capitalize;
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  padding: 0;
+}
+.frame-parent42,
+.personal-info-field-set,
+.your-email-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.your-email-wrapper {
+  flex: 1;
+  background-color: var(--color-white);
+  padding: var(--padding-5xs) var(--padding-base-9) var(--padding-5xs-9);
+  box-sizing: border-box;
+  min-width: 8.25rem;
+}
+.frame-parent42,
+.personal-info-field-set {
+  align-self: stretch;
+  gap: var(--gap-base);
+}
+.personal-info-field-set {
+  flex-direction: column;
+  gap: var(--gap-mini-4);
+  max-width: 100%;
+}
+.privacy-policy7 {
+  text-decoration: underline;
+}
+.by-signing-up-container3 {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-3xs);
+  text-transform: capitalize;
+  font-family: var(--font-chesna-grotesk-light);
+  color: var(--color-black);
+  text-align: left;
+}
+.terms-cond-privacy {
+  width: 15.625rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-9xs) 0 0;
+  box-sizing: border-box;
+}
+.sign-up3 {
+  flex: 1;
+  position: relative;
+  font-size: var(--font-size-3xs);
+  text-transform: uppercase;
+  font-family: var(--font-chesna-grotesk-black);
+  color: var(--color-white);
+  text-align: center;
+}
+.agreement-terms-link,
+.sign-up-mailing-list {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.sign-up-mailing-list {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-6xs-6) var(--padding-3xs) var(--padding-6xs-7);
+  background-color: var(--color-darkorange);
+  width: 4.338rem;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  white-space: nowrap;
+}
+.sign-up-mailing-list:hover {
+  background-color: var(--color-chocolate);
+}
+.agreement-terms-link {
+  align-self: stretch;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.personal-info-field-set-parent,
+.sign-up-for-our-waitlist-group {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.personal-info-field-set-parent {
+  margin: 0;
+  align-items: flex-end;
+  padding: 0 0 0 var(--padding-12xs);
+  gap: var(--gap-6xl-8);
+  flex-shrink: 0;
+  debug_commit: f6aba90;
+}
+.sign-up-for-our-waitlist-group {
+  align-items: flex-start;
+  gap: var(--gap-base-2);
+  max-width: 100%;
+}
+.submit-button-child {
+  height: 2.75rem;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+}
+.frame-parent41,
+.submit-button {
+  align-self: stretch;
+  display: flex;
+  max-width: 100%;
+}
+.submit-button {
+  height: 2.75rem;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-2xs-4) 0 var(--padding-base);
+  box-sizing: border-box;
+}
+.frame-parent41 {
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-77xl);
+}
+.footer-inner3,
+.footer3 {
+  display: flex;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.footer-inner3 {
+  width: 26.463rem;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: var(--padding-6xs) 0 0;
+}
+.footer3 {
+  align-self: stretch;
+  background-color: var(--color-lightgray);
+  overflow: hidden;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: var(--padding-50xl) var(--padding-111xl) var(--padding-95xl)
+    var(--padding-92xl);
+  gap: var(--gap-xl);
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-chesna-grotesk-regular);
+}
+@media screen and (max-width: 1650px) {
+  .footer3 {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+}
+@media screen and (max-width: 1300px) {
+  .footer3 {
+    padding-left: var(--padding-36xl);
+    padding-right: var(--padding-46xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 900px) {
+  .frame-parent40 {
+    flex-wrap: wrap;
+  }
+  .footer3 {
+    padding: var(--padding-26xl) var(--padding-13xl) var(--padding-55xl)
+      var(--padding-8xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .div3 {
+    font-size: var(--font-size-xl);
+  }
+  .privacy-policy-link {
+    gap: 1.188rem 2.438rem;
+  }
+  .terms-and-conditions-link3 {
+    gap: 1.625rem 3.313rem;
+  }
+  .sign-up-button-parent {
+    gap: 2rem 4rem;
+  }
+  .sign-up-for3,
+  .travel-information14,
+  .travel-information16 {
+    font-size: var(--font-size-base);
+  }
+  .agreement-terms-link,
+  .frame-parent42 {
+    flex-wrap: wrap;
+  }
+  .frame-parent41 {
+    gap: 3rem 6rem;
+  }
+}

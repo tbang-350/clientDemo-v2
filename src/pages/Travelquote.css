@@ -1,0 +1,385 @@
+.request-travel-proposal {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-family: inherit;
+}
+.logo-footer {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-10xs);
+}
+.i {
+  text-transform: capitalize;
+}
+.ndicates-required-field {
+  text-transform: lowercase;
+}
+.indicates-required-field-container {
+  height: 2.188rem;
+  position: relative;
+  font-size: var(--font-size-6xl);
+  font-family: var(--font-chesna-grotesk-regular);
+  display: inline-block;
+}
+.footer-info {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-5xs);
+  box-sizing: border-box;
+  gap: var(--gap-8xl);
+  max-width: 100%;
+}
+.travel-information4 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-family: inherit;
+}
+.travel-information-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-10xs);
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: var(--font-size-16xl);
+}
+.c {
+  text-transform: capitalize;
+}
+.hoose-type-of {
+  text-transform: lowercase;
+}
+.choose-type-of-container {
+  position: relative;
+}
+.selectinput-3-icon {
+  align-self: stretch;
+  height: 4.438rem;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.terms-and-conditions-link {
+  align-self: stretch;
+  height: 6.938rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-xs);
+}
+.budget-per-personexcluding {
+  position: relative;
+  text-transform: capitalize;
+  display: inline-block;
+  max-width: 100%;
+}
+.selectinput-2-icon {
+  align-self: stretch;
+  height: 4.438rem;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.travel-information-tab {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-21xl);
+  box-sizing: border-box;
+  gap: var(--gap-xs);
+  max-width: 100%;
+}
+.travel-information5 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.number-of-adults {
+  position: relative;
+  text-transform: capitalize;
+}
+.frame-child12 {
+  align-self: stretch;
+  height: 4.438rem;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.number-of-adults-parent {
+  align-self: stretch;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-xs);
+}
+.number-of-children {
+  position: relative;
+  text-transform: capitalize;
+}
+.frame-child13 {
+  align-self: stretch;
+  height: 4.438rem;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frame-parent18,
+.frame-wrapper6,
+.number-of-children-parent {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.number-of-children-parent {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-xs);
+}
+.frame-parent18,
+.frame-wrapper6 {
+  max-width: 100%;
+}
+.frame-parent18 {
+  flex: 1;
+  flex-direction: column;
+  gap: 1.563rem;
+}
+.frame-wrapper6 {
+  height: 15.438rem;
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-4xs);
+  box-sizing: border-box;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-chesna-grotesk-regular);
+}
+.terms-and-conditions-link-parent,
+.travel-information-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.travel-information-container {
+  align-self: stretch;
+  align-items: flex-start;
+  gap: var(--gap-15xl);
+  font-size: var(--font-size-16xl);
+  font-family: var(--font-chesna-grotesk-black);
+}
+.terms-and-conditions-link-parent {
+  flex: 1;
+  align-items: flex-end;
+  gap: var(--gap-43xl);
+  min-width: 23.875rem;
+}
+.c1 {
+  text-transform: capitalize;
+}
+.hoose-type-of1 {
+  text-transform: lowercase;
+}
+.choose-type-of-container1 {
+  position: relative;
+}
+.selectinput-1-icon {
+  align-self: stretch;
+  height: 4.438rem;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.terms-and-conditions-link1 {
+  align-self: stretch;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-xs);
+}
+.estimated-arrival-date {
+  position: relative;
+  text-transform: capitalize;
+}
+.calenderinput-icon {
+  align-self: stretch;
+  height: 4.438rem;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.terms-and-conditions-link2 {
+  align-self: stretch;
+  flex: 1;
+  justify-content: flex-start;
+  gap: var(--gap-xs);
+}
+.frame-wrapper7,
+.terms-and-conditions-link-group,
+.terms-and-conditions-link2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.terms-and-conditions-link-group {
+  align-self: stretch;
+  height: 17.688rem;
+  justify-content: flex-start;
+  gap: 3.813rem;
+}
+.frame-wrapper7 {
+  flex: 1;
+  padding: var(--padding-12xs) 0 0;
+  box-sizing: border-box;
+  min-width: 23.5rem;
+}
+.footer-info-parent,
+.frame-parent17,
+.frame-wrapper7 {
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-parent17 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  padding: 0 0 var(--padding-5xs);
+  box-sizing: border-box;
+  gap: var(--gap-22xl);
+  font-size: var(--font-size-xl);
+  font-family: var(--font-chesna-grotesk-regular);
+}
+.footer-info-parent {
+  width: 75.75rem;
+  flex-direction: column;
+  gap: var(--gap-43xl);
+}
+.footer-info-parent,
+.travelquote,
+.travelquote-inner {
+  display: flex;
+  align-items: flex-start;
+}
+.travelquote-inner {
+  width: 87.5rem;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-26xl);
+  color: var(--color-black);
+  font-family: var(--font-chesna-grotesk-black);
+}
+.travelquote {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-linen-100);
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-43xl);
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1300px) {
+  .travelquote {
+    gap: 1.938rem 3.875rem;
+  }
+}
+@media screen and (max-width: 900px) {
+  .request-travel-proposal {
+    font-size: var(--font-size-17xl);
+  }
+  .travel-information4,
+  .travel-information5 {
+    font-size: var(--font-size-9xl);
+  }
+  .travel-information-container {
+    gap: 1.063rem 2.125rem;
+  }
+  .terms-and-conditions-link-parent {
+    gap: 1.938rem 3.875rem;
+  }
+  .terms-and-conditions-link-group {
+    gap: 1.875rem 3.813rem;
+  }
+  .frame-parent17 {
+    gap: var(--gap-xl);
+  }
+  .footer-info-parent {
+    gap: 1.938rem 3.875rem;
+  }
+  .travelquote {
+    gap: 0.938rem 3.875rem;
+  }
+}
+@media screen and (max-width: 450px) {
+  .request-travel-proposal {
+    font-size: var(--font-size-8xl);
+  }
+  .indicates-required-field-container {
+    font-size: var(--font-size-xl);
+  }
+  .travel-information4 {
+    font-size: var(--font-size-2xl);
+  }
+  .budget-per-personexcluding,
+  .choose-type-of-container {
+    font-size: var(--font-size-base);
+  }
+  .travel-information5 {
+    font-size: var(--font-size-2xl);
+  }
+  .number-of-adults,
+  .number-of-children {
+    font-size: var(--font-size-base);
+  }
+  .terms-and-conditions-link-parent {
+    gap: 0.938rem 3.875rem;
+    min-width: 100%;
+  }
+  .choose-type-of-container1,
+  .estimated-arrival-date {
+    font-size: var(--font-size-base);
+  }
+  .terms-and-conditions-link-group {
+    gap: 0.938rem 3.813rem;
+  }
+  .frame-wrapper7 {
+    min-width: 100%;
+  }
+  .footer-info-parent {
+    gap: 0.938rem 3.875rem;
+  }
+}

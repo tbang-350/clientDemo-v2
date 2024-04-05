@@ -1,0 +1,253 @@
+.e4 {
+  text-transform: capitalize;
+}
+.xperience-the-best {
+  text-transform: lowercase;
+}
+.experience-the-best-container,
+.itinerary5 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+}
+.experience-the-best-container {
+  align-self: stretch;
+  height: 13.125rem;
+  display: inline-block;
+}
+.itinerary5 {
+  text-transform: uppercase;
+}
+.materuni-waterfalls,
+.ngorongoro-crater,
+.serengeti-national-park4,
+.serengeti-national-park5,
+.serengeti-national-park6,
+.tarangire-national-park1 {
+  margin-bottom: false;
+}
+.materuni-waterfalls-kikuletw {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-14xl);
+}
+.materuni-waterfalls-container {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-6xl);
+  line-height: 140.12%;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-family: var(--font-chesna-grotesk-regular);
+}
+.loop-end,
+.split {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.loop-end {
+  width: 40.5rem;
+  gap: var(--gap-8xs);
+  font-size: var(--font-size-16xl);
+  font-family: var(--font-chesna-grotesk-black);
+}
+.split {
+  flex: 1;
+  gap: var(--gap-24xl);
+  min-width: 34.875rem;
+}
+.frame-child65 {
+  height: 1.875rem;
+  width: 1.875rem;
+  position: relative;
+}
+.knowledgeable-and-fluent3 {
+  flex: 1;
+  position: relative;
+  text-transform: capitalize;
+}
+.instance-parent43 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+  min-width: 11.313rem;
+}
+.frame-child66 {
+  height: 1.875rem;
+  width: 1.875rem;
+  position: relative;
+}
+.full-coverage-of4 {
+  align-self: stretch;
+  position: relative;
+  text-transform: capitalize;
+}
+.full-coverage-of-national-park-container,
+.instance-parent44 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.full-coverage-of-national-park-container {
+  flex: 1;
+  flex-direction: column;
+  padding: var(--padding-12xs) 0 0;
+}
+.instance-parent44 {
+  align-self: stretch;
+  height: 2.313rem;
+  flex-direction: row;
+  gap: var(--gap-4xs);
+}
+.frame-wrapper29 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-8xs);
+  box-sizing: border-box;
+  min-width: 10.875rem;
+}
+.frame-parent102 {
+  width: 36.625rem;
+  flex-direction: row;
+  align-items: flex-end;
+  gap: var(--gap-21xl);
+}
+.data-aggregator2,
+.frame-parent101,
+.frame-parent102,
+.frame-parent103 {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-parent101 {
+  width: 41.313rem;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-4xl);
+}
+.data-aggregator2,
+.frame-parent103 {
+  align-items: flex-end;
+}
+.frame-parent103 {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-86xl);
+  min-width: 14.938rem;
+  margin-left: -0.187rem;
+}
+.data-aggregator2 {
+  align-self: stretch;
+  flex-direction: row;
+  row-gap: 20px;
+}
+.frame-parent100,
+.parallel,
+.split-parent {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent100 {
+  width: 42.813rem;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-mid);
+  min-width: 42.813rem;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-nexa-xbold);
+}
+.parallel,
+.split-parent {
+  flex-direction: row;
+  justify-content: center;
+}
+.split-parent {
+  width: 106.438rem;
+  gap: var(--gap-140xl);
+}
+.parallel {
+  width: 117.938rem;
+  padding: 0 var(--padding-xl) var(--padding-44xl);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--color-black);
+  font-family: var(--font-chesna-grotesk-regular);
+}
+@media screen and (max-width: 1575px) {
+  .frame-parent100 {
+    flex: 1;
+  }
+  .split-parent {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1275px) {
+  .split-parent {
+    gap: 9.938rem 4.938rem;
+  }
+}
+@media screen and (max-width: 825px) {
+  .itinerary5 {
+    font-size: var(--font-size-9xl);
+  }
+  .split {
+    min-width: 100%;
+  }
+  .frame-parent102 {
+    flex-wrap: wrap;
+    gap: 2.5rem 1.25rem;
+  }
+  .frame-parent103 {
+    margin-left: 0;
+  }
+  .data-aggregator2 {
+    flex-wrap: wrap;
+  }
+  .frame-parent100 {
+    min-width: 100%;
+  }
+  .split-parent {
+    gap: 9.938rem 2.5rem;
+  }
+  .parallel {
+    padding-bottom: var(--padding-22xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .experience-the-best-container {
+    font-size: var(--font-size-xl);
+  }
+  .itinerary5 {
+    font-size: var(--font-size-2xl);
+  }
+  .materuni-waterfalls-container {
+    font-size: var(--font-size-xl);
+    line-height: 1.75rem;
+  }
+  .split {
+    gap: 1.313rem 2.688rem;
+  }
+  .frame-parent103 {
+    gap: 3.25rem 6.563rem;
+  }
+  .split-parent {
+    gap: 9.938rem 1.25rem;
+  }
+}

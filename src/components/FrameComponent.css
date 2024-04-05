@@ -1,0 +1,117 @@
+.aboutimage-5-icon {
+  height: 29.688rem;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+}
+.aboutimage-5-wrapper {
+  width: 54.313rem;
+  height: 29.688rem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-19xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.request-a-quote2 {
+  width: 13.938rem;
+  position: relative;
+  font-size: var(--font-size-6xl);
+  text-transform: uppercase;
+  font-family: var(--font-chesna-grotesk-black);
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+}
+.ctabutton2 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-mid) var(--padding-xl);
+  background-color: var(--color-royalblue-200);
+  width: 25.188rem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  box-sizing: border-box;
+  white-space: nowrap;
+  max-width: 100%;
+}
+.ctabutton2:hover,
+.ctabutton3:hover {
+  background-color: var(--color-royalblue-100);
+}
+.talk-to-an1 {
+  width: 14.813rem;
+  position: relative;
+  font-size: var(--font-size-6xl);
+  text-transform: uppercase;
+  font-family: var(--font-chesna-grotesk-black);
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+}
+.ctabutton3 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-mid) var(--padding-xl);
+  background-color: var(--color-royalblue-200);
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  box-sizing: border-box;
+  min-width: 16.938rem;
+  white-space: nowrap;
+  max-width: 100%;
+}
+.button-signup,
+.ctabutton-parent {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.ctabutton-parent {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: var(--gap-61xl);
+}
+.button-signup {
+  width: 56.25rem;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: var(--gap-86xl);
+}
+.button-signup-wrapper {
+  width: 99.125rem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+@media screen and (max-width: 1275px) {
+  .ctabutton-parent {
+    gap: var(--gap-21xl);
+  }
+  .button-signup {
+    gap: 3.25rem 6.563rem;
+  }
+}
+@media screen and (max-width: 450px) {
+  .ctabutton-parent {
+    gap: var(--gap-xl);
+  }
+  .button-signup {
+    gap: 1.625rem 6.563rem;
+  }
+}

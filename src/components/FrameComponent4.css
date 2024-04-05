@@ -1,0 +1,60 @@
+.backgroundimage4-icon {
+  height: 28.125rem;
+  width: 120rem;
+  position: relative;
+  object-fit: cover;
+  display: none;
+  max-width: 100%;
+  z-index: 0;
+}
+.travel-quote {
+  margin: 0 !important;
+  width: 20.375rem;
+  position: absolute;
+  top: 18.375rem;
+  left: calc(50% - 164px);
+  font-size: inherit;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  z-index: 1;
+}
+.nav-bar,
+.travel-info-container {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.travel-info-container {
+  height: 28.125rem;
+  flex-direction: row;
+  padding: var(--padding-275xl) 0 var(--padding-74xl);
+  position: relative;
+  background-image: url(/public/backgroundimage4@2x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  z-index: 1;
+}
+.nav-bar {
+  flex-direction: column;
+  padding: 0 0 var(--padding-11xl);
+  text-align: center;
+  font-size: var(--font-size-26xl);
+  color: var(--color-white);
+  font-family: var(--font-chesna-grotesk-black);
+}
+@media screen and (max-width: 900px) {
+  .travel-quote {
+    font-size: var(--font-size-17xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .travel-quote {
+    font-size: var(--font-size-8xl);
+  }
+}

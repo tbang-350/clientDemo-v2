@@ -1,0 +1,265 @@
+.day-3-serengeti1 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-family: inherit;
+}
+.day-3-serengeti-national-park-container {
+  width: 78.813rem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.data-preprocessor-icon,
+.transform-sequencer-icon {
+  height: 22.438rem;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+  min-width: 24.75rem;
+  min-height: 22.438rem;
+}
+.condition-evaluator,
+.transform-sequencer-parent {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.transform-sequencer-parent {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: var(--gap-57xl);
+}
+.condition-evaluator {
+  width: 80.875rem;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-21xl);
+  text-align: left;
+  font-size: var(--font-size-16xl);
+  font-family: var(--font-chewy);
+}
+.embark-on-a2 {
+  margin: 0;
+  width: 53.688rem;
+  position: relative;
+  font-size: inherit;
+  text-transform: capitalize;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.scale {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-6xl) 0 var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.day-4-serengeti {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-family: inherit;
+}
+.day-4-serengeti-national-park-wrapper {
+  width: 78.875rem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frame-child67,
+.frame-child68 {
+  height: 22.438rem;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+  min-width: 24.75rem;
+  min-height: 22.438rem;
+}
+.frame-parent104,
+.rectangle-parent14 {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.rectangle-parent14 {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: var(--gap-57xl);
+}
+.frame-parent104 {
+  width: 80.875rem;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-21xl);
+  text-align: left;
+  font-size: var(--font-size-16xl);
+  font-family: var(--font-chewy);
+}
+.dedicate-the-entire1,
+.overnight-stay {
+  margin: 0;
+}
+.dedicate-the-entire-container {
+  margin: 0;
+  width: 53.688rem;
+  position: relative;
+  font-size: inherit;
+  text-transform: capitalize;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.scale1 {
+  width: 80.813rem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.experience-a-magical {
+  margin: 0;
+  width: 53.688rem;
+  position: relative;
+  font-size: inherit;
+  text-transform: capitalize;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.scale2 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-4xl) 0 var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.lodge-for-a,
+.start-the-day {
+  margin: 0;
+}
+.start-the-day-container {
+  margin: 0;
+  width: 53.688rem;
+  position: relative;
+  font-size: inherit;
+  text-transform: capitalize;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.scale3 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-28xl) 0 var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.after-breakfast-visit {
+  margin: 0;
+  width: 53.688rem;
+  position: relative;
+  font-size: inherit;
+  text-transform: capitalize;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.scale4 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-4xl) 0 var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.rotation {
+  width: 82.625rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-40xl);
+  text-align: center;
+  font-size: var(--font-size-6xl);
+  color: var(--color-black);
+  font-family: var(--font-chesna-grotesk-regular);
+}
+@media screen and (max-width: 825px) {
+  .day-3-serengeti1 {
+    font-size: var(--font-size-9xl);
+  }
+  .data-preprocessor-icon,
+  .transform-sequencer-icon {
+    min-width: 100%;
+  }
+  .day-4-serengeti {
+    font-size: var(--font-size-9xl);
+  }
+  .frame-child67,
+  .frame-child68 {
+    min-width: 100%;
+  }
+}
+@media screen and (max-width: 450px) {
+  .day-3-serengeti1 {
+    font-size: var(--font-size-2xl);
+  }
+  .embark-on-a2 {
+    font-size: var(--font-size-xl);
+  }
+  .day-4-serengeti {
+    font-size: var(--font-size-2xl);
+  }
+  .after-breakfast-visit,
+  .dedicate-the-entire-container,
+  .experience-a-magical,
+  .start-the-day-container {
+    font-size: var(--font-size-xl);
+  }
+}

@@ -1,0 +1,98 @@
+.safari-blue {
+  margin: 0 !important;
+  position: absolute;
+  top: 18.375rem;
+  left: calc(50% - 139px);
+  font-size: inherit;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-family: inherit;
+}
+.safari-blue-wrapper,
+.safariblue-inner {
+  flex-direction: row;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.safari-blue-wrapper {
+  height: 28.125rem;
+  flex: 1;
+  display: flex;
+  align-items: flex-start;
+  padding: var(--padding-275xl) 0 var(--padding-74xl);
+  position: relative;
+  background-image: url(/public/frame-232@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  max-width: 100%;
+}
+.safariblue-inner {
+  align-self: stretch;
+  padding: 0 0 var(--padding-63xl);
+  text-align: left;
+  font-size: var(--font-size-26xl);
+  color: var(--color-white);
+  font-family: var(--font-chesna-grotesk-black);
+}
+.flow-container,
+.flow-container-wrapper,
+.safariblue-inner {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.flow-container {
+  width: 80.938rem;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-86xl);
+}
+.flow-container-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-2xl) var(--padding-73xl) var(--padding-xl);
+  box-sizing: border-box;
+}
+.safariblue {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-linen-100);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1275px) {
+  .flow-container-wrapper {
+    padding-bottom: var(--padding-20xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 825px) {
+  .safari-blue {
+    font-size: var(--font-size-17xl);
+  }
+  .safariblue-inner {
+    padding-bottom: var(--padding-34xl);
+    box-sizing: border-box;
+  }
+  .flow-container {
+    gap: 3.25rem 6.563rem;
+  }
+  .flow-container-wrapper {
+    padding-bottom: var(--padding-6xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .safari-blue {
+    font-size: var(--font-size-8xl);
+  }
+  .flow-container {
+    gap: 1.625rem 6.563rem;
+  }
+}

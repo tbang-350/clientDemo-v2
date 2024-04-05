@@ -1,0 +1,175 @@
+.experience-the-best,
+.itinerary4 {
+  margin: 0;
+  position: relative;
+  font-weight: 400;
+}
+.experience-the-best {
+  align-self: stretch;
+  font-size: inherit;
+  text-transform: capitalize;
+  font-family: inherit;
+}
+.itinerary4 {
+  font-size: var(--font-size-16xl);
+  text-transform: uppercase;
+  font-family: var(--font-chesna-grotesk-black);
+}
+.experience-the-best-of-tanzani-parent,
+.frame-wrapper23 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.experience-the-best-of-tanzani-parent {
+  width: 53.688rem;
+  gap: var(--gap-129xl);
+  min-width: 53.688rem;
+  max-width: 100%;
+}
+.frame-wrapper23 {
+  height: 6.375rem;
+  width: 17.375rem;
+  padding: var(--padding-7xs) 0 0;
+  box-sizing: border-box;
+  min-width: 17.375rem;
+}
+.frame-child58 {
+  height: 1.875rem;
+  width: 1.875rem;
+  position: relative;
+}
+.full-coverage-of3 {
+  align-self: stretch;
+  position: relative;
+  text-transform: capitalize;
+}
+.data-hub1,
+.instance-parent33 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.data-hub1 {
+  flex: 1;
+  flex-direction: column;
+  padding: var(--padding-12xs) 0 0;
+}
+.instance-parent33 {
+  width: 16.75rem;
+  height: 2.313rem;
+  flex-direction: row;
+  gap: var(--gap-4xs);
+}
+.output-aggregator-child {
+  height: 1.875rem;
+  width: 1.875rem;
+  position: relative;
+}
+.flying-doctors-insurance1 {
+  flex: 1;
+  position: relative;
+  text-transform: capitalize;
+  display: inline-block;
+  min-width: 13.313rem;
+  max-width: 100%;
+}
+.frame-parent86,
+.output-aggregator {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.output-aggregator {
+  align-self: stretch;
+  flex-direction: row;
+  gap: var(--gap-4xs);
+}
+.frame-parent86 {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-3xl);
+  min-width: 14.938rem;
+}
+.frame-parent85 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: var(--gap-21xl);
+  font-size: var(--font-size-lg);
+  font-family: var(--font-nexa-xbold);
+}
+.frame-parent83,
+.frame-parent84,
+.frame-parent85 {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent84 {
+  width: 42.813rem;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-4xl);
+  min-width: 42.813rem;
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-chesna-grotesk-black);
+}
+.frame-parent83 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--color-black);
+  font-family: var(--font-chesna-grotesk-regular);
+}
+@media screen and (max-width: 1600px) {
+  .experience-the-best-of-tanzani-parent,
+  .frame-parent84 {
+    flex: 1;
+  }
+  .frame-parent83 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1275px) {
+  .experience-the-best-of-tanzani-parent {
+    min-width: 100%;
+  }
+}
+@media screen and (max-width: 900px) {
+  .itinerary4 {
+    font-size: var(--font-size-9xl);
+  }
+  .experience-the-best-of-tanzani-parent {
+    gap: 4.625rem 9.25rem;
+  }
+  .frame-wrapper23 {
+    flex: 1;
+  }
+  .frame-parent85 {
+    flex-wrap: wrap;
+    gap: 2.5rem 1.25rem;
+  }
+  .frame-parent84 {
+    min-width: 100%;
+  }
+}
+@media screen and (max-width: 450px) {
+  .experience-the-best {
+    font-size: var(--font-size-xl);
+  }
+  .itinerary4 {
+    font-size: var(--font-size-2xl);
+  }
+  .experience-the-best-of-tanzani-parent {
+    gap: 2.313rem 9.25rem;
+  }
+  .output-aggregator {
+    flex-wrap: wrap;
+  }
+}

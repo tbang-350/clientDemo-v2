@@ -1,0 +1,577 @@
+.i1 {
+  text-transform: capitalize;
+}
+.mmerse-yourself-in {
+  text-transform: lowercase;
+}
+.immerse-yourself-in-container,
+.itinerary2 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+}
+.immerse-yourself-in-container {
+  align-self: stretch;
+}
+.itinerary2 {
+  text-transform: uppercase;
+}
+.itinerary-frame {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-4xs);
+}
+.arusha-to-lake,
+.lake-manyara-to,
+.serengeti-national-park1 {
+  margin-bottom: false;
+}
+.arusha-to-lake-manyara-lake-ma {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-14xl);
+}
+.arusha-to-lake-container {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-6xl);
+  line-height: 140.12%;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-family: var(--font-chesna-grotesk-regular);
+}
+.frame-parent61,
+.immerse-yourself-in-the-wonder-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent61 {
+  align-self: stretch;
+  gap: var(--gap-8xl);
+  font-size: var(--font-size-16xl);
+  font-family: var(--font-chesna-grotesk-black);
+}
+.immerse-yourself-in-the-wonder-parent {
+  flex: 1;
+  gap: var(--gap-37xl);
+  min-width: 34.875rem;
+  max-width: 100%;
+}
+.included2 {
+  margin: 0;
+  position: relative;
+  font-size: var(--font-size-11xl);
+  text-transform: uppercase;
+  font-weight: 400;
+  font-family: var(--font-chesna-grotesk-black);
+}
+.frame-child33 {
+  height: 1.875rem;
+  width: 1.875rem;
+  position: relative;
+}
+.ground-transportation-in2 {
+  align-self: stretch;
+  position: relative;
+  text-transform: capitalize;
+}
+.ground-transportation-in-a-rob-container,
+.instance-parent18 {
+  flex: 1;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.ground-transportation-in-a-rob-container {
+  flex-direction: column;
+  padding: var(--padding-12xs) 0 0;
+}
+.instance-parent18 {
+  flex-direction: row;
+  gap: var(--gap-smi);
+  min-width: 11.125rem;
+}
+.frame-child34 {
+  height: 1.875rem;
+  width: 1.875rem;
+  position: relative;
+}
+.complimentary-mineral-water2 {
+  flex: 1;
+  position: relative;
+  text-transform: capitalize;
+}
+.frame-parent63,
+.instance-parent19 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.instance-parent19 {
+  height: 2.25rem;
+  width: 16.313rem;
+  align-items: flex-start;
+  gap: var(--gap-smi);
+}
+.frame-parent63 {
+  width: 36.188rem;
+  align-items: flex-end;
+  padding: 0 0 var(--padding-5xs);
+  box-sizing: border-box;
+  gap: var(--gap-25xl);
+  max-width: 100%;
+}
+.frame-child35 {
+  width: 1.875rem;
+  height: 1.875rem;
+  position: relative;
+}
+.instance-frame {
+  height: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-11xs) 0 0;
+  box-sizing: border-box;
+}
+.accommodation-at-lodges {
+  flex: 1;
+  position: relative;
+  text-transform: capitalize;
+}
+.frame-parent65 {
+  width: 17.375rem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-smi);
+}
+.frame-child36 {
+  height: 1.875rem;
+  width: 1.875rem;
+  position: relative;
+}
+.overnight-stays-aligned1 {
+  flex: 1;
+  position: relative;
+  text-transform: capitalize;
+}
+.instance-parent20 {
+  align-self: stretch;
+  height: 2.25rem;
+  flex-direction: row;
+  gap: var(--gap-smi);
+}
+.frame-parent64,
+.frame-wrapper17,
+.instance-parent20 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-wrapper17 {
+  flex: 1;
+  flex-direction: column;
+  padding: var(--padding-7xs) 0 0;
+  box-sizing: border-box;
+  min-width: 11.75rem;
+}
+.frame-parent64 {
+  align-self: stretch;
+  flex-direction: row;
+  gap: var(--gap-21xl);
+}
+.frame-child37 {
+  height: 1.875rem;
+  width: 1.875rem;
+  position: relative;
+}
+.knowledgeable-and-fluent2 {
+  flex: 1;
+  position: relative;
+  text-transform: capitalize;
+}
+.instance-parent21 {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-5xs);
+  min-width: 11.313rem;
+}
+.frame-child38 {
+  height: 1.875rem;
+  width: 1.875rem;
+  position: relative;
+}
+.full-coverage-of2 {
+  align-self: stretch;
+  position: relative;
+  text-transform: capitalize;
+}
+.full-coverage-of-national-park-wrapper,
+.instance-parent22 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.full-coverage-of-national-park-wrapper {
+  flex: 1;
+  flex-direction: column;
+  padding: var(--padding-12xs) 0 0;
+}
+.instance-parent22 {
+  align-self: stretch;
+  height: 2.313rem;
+  flex-direction: row;
+  gap: var(--gap-4xs);
+}
+.frame-wrapper18 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-8xs);
+  box-sizing: border-box;
+  min-width: 10.875rem;
+}
+.frame-parent66 {
+  width: 36.625rem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-21xl);
+  max-width: 100%;
+}
+.data-hub-wrapper,
+.included-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.included-container {
+  width: 38rem;
+  gap: var(--gap-4xs);
+}
+.data-hub-wrapper {
+  width: 20.063rem;
+  padding: var(--padding-7xs) 0 0;
+  box-sizing: border-box;
+  min-width: 20.063rem;
+}
+.path-22-icon20 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.continue-statement {
+  position: absolute;
+  height: 8%;
+  width: 54%;
+  top: 46%;
+  right: 22.67%;
+  bottom: 46%;
+  left: 23.33%;
+  background-color: var(--color-darkorange);
+  z-index: 1;
+}
+.path-22-parent17 {
+  height: 1.875rem;
+  width: 1.875rem;
+  position: relative;
+  opacity: 0.59;
+}
+.gratuities-tips2 {
+  position: relative;
+  text-transform: capitalize;
+}
+.goto-statement,
+.throw-statement {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.goto-statement {
+  flex-direction: column;
+  padding: var(--padding-6xs) 0 0;
+}
+.throw-statement {
+  flex-direction: row;
+  gap: var(--gap-smi);
+}
+.path-22-icon21 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.image-container {
+  position: absolute;
+  height: 8%;
+  width: 54%;
+  top: 46%;
+  right: 22.67%;
+  bottom: 46%;
+  left: 23.33%;
+  background-color: var(--color-darkorange);
+  z-index: 1;
+}
+.path-22-parent18 {
+  height: 1.875rem;
+  width: 1.875rem;
+  position: relative;
+  opacity: 0.59;
+}
+.personal-funds-for2 {
+  align-self: stretch;
+  position: relative;
+  text-transform: capitalize;
+}
+.personal-funds-for-souvenirs-a-container {
+  flex: 1;
+  flex-direction: column;
+  padding: var(--padding-12xs) 0 0;
+  box-sizing: border-box;
+  min-width: 12.375rem;
+}
+.catch-block,
+.finally-block,
+.macro,
+.personal-funds-for-souvenirs-a-container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.macro {
+  align-self: stretch;
+  flex-direction: row;
+  gap: var(--gap-smi);
+}
+.catch-block,
+.finally-block {
+  max-width: 100%;
+}
+.finally-block {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-27xl);
+}
+.catch-block {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-12xs);
+  box-sizing: border-box;
+}
+.path-22-icon22 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.dropdown-menu-tree {
+  position: absolute;
+  height: 8%;
+  width: 54%;
+  top: 46%;
+  right: 22.67%;
+  bottom: 46%;
+  left: 23.33%;
+  background-color: var(--color-darkorange);
+  z-index: 1;
+}
+.path-22-parent19 {
+  height: 1.875rem;
+  width: 1.875rem;
+  position: relative;
+  opacity: 0.59;
+}
+.travel-insurance2 {
+  position: relative;
+  text-transform: capitalize;
+}
+.toggle-switch-bank {
+  display: flex;
+  flex-direction: column;
+  padding: var(--padding-6xs) 0 0;
+}
+.list-item-batch,
+.toggle-switch-bank,
+.try-block {
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.list-item-batch {
+  display: flex;
+  flex-direction: row;
+  gap: var(--gap-smi);
+}
+.try-block {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-xl);
+}
+.event-trigger,
+.exception,
+.try-block {
+  display: flex;
+  max-width: 100%;
+}
+.exception {
+  width: 22.063rem;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 var(--padding-11xs);
+  box-sizing: border-box;
+}
+.event-trigger {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-86xl);
+  min-width: 14.938rem;
+  margin-left: -0.187rem;
+}
+.frame-parent67 {
+  align-self: stretch;
+  flex-direction: row;
+  row-gap: 20px;
+}
+.frame-parent60,
+.frame-parent62,
+.frame-parent67 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-parent62 {
+  width: 42.813rem;
+  flex-direction: column;
+  gap: var(--gap-mid);
+  min-width: 42.813rem;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-nexa-xbold);
+}
+.frame-parent60 {
+  align-self: stretch;
+  flex-direction: row;
+  gap: var(--gap-140xl);
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--color-black);
+  font-family: var(--font-chesna-grotesk-regular);
+}
+@media screen and (max-width: 1575px) {
+  .frame-parent62 {
+    flex: 1;
+  }
+  .frame-parent60 {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1275px) {
+  .frame-parent60 {
+    gap: 9.938rem 4.938rem;
+  }
+}
+@media screen and (max-width: 825px) {
+  .itinerary2 {
+    font-size: var(--font-size-9xl);
+  }
+  .immerse-yourself-in-the-wonder-parent {
+    min-width: 100%;
+  }
+  .included2 {
+    font-size: var(--font-size-5xl);
+  }
+  .frame-parent63 {
+    flex-wrap: wrap;
+    gap: 2.75rem 1.375rem;
+  }
+  .frame-parent64,
+  .frame-parent66 {
+    flex-wrap: wrap;
+    gap: 2.5rem 1.25rem;
+  }
+  .data-hub-wrapper {
+    flex: 1;
+  }
+  .event-trigger {
+    margin-left: 0;
+  }
+  .frame-parent67 {
+    flex-wrap: wrap;
+  }
+  .frame-parent62 {
+    min-width: 100%;
+  }
+  .frame-parent60 {
+    gap: 9.938rem 2.5rem;
+  }
+}
+@media screen and (max-width: 450px) {
+  .immerse-yourself-in-container {
+    font-size: var(--font-size-xl);
+  }
+  .itinerary2 {
+    font-size: var(--font-size-2xl);
+  }
+  .arusha-to-lake-container {
+    font-size: var(--font-size-xl);
+    line-height: 1.75rem;
+  }
+  .immerse-yourself-in-the-wonder-parent {
+    gap: 1.75rem 3.5rem;
+  }
+  .included2 {
+    font-size: var(--font-size-lg);
+  }
+  .macro {
+    flex-wrap: wrap;
+  }
+  .finally-block {
+    gap: 1.438rem 2.875rem;
+  }
+  .event-trigger {
+    gap: 3.25rem 6.563rem;
+  }
+  .frame-parent60 {
+    gap: 9.938rem 1.25rem;
+  }
+}

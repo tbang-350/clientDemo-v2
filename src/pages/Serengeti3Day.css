@@ -1,0 +1,1497 @@
+.day-serengeti-camping {
+  margin: 0 !important;
+  width: 47rem;
+  position: absolute;
+  top: 18.375rem;
+  left: calc(50% - 367px);
+  font-size: inherit;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+}
+.network-manager,
+.network-manager-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.network-manager {
+  height: 28.125rem;
+  flex: 1;
+  padding: var(--padding-275xl) 0 var(--padding-74xl);
+  position: relative;
+  background-image: url(/public/network-manager@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.network-manager-wrapper {
+  align-self: stretch;
+  padding: 0 0 var(--padding-63xl);
+  text-align: center;
+  font-size: var(--font-size-26xl);
+  color: var(--color-white);
+  font-family: var(--font-chesna-grotesk-black);
+}
+.e {
+  text-transform: capitalize;
+}
+.mbark-on-an {
+  text-transform: lowercase;
+}
+.embark-on-an-container {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.embark-on-an-exclusive-private-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-4xs);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.itinerary {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-family: inherit;
+}
+.itinerary-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-4xs);
+}
+.arusha-to-seremgeti,
+.serengeti-national-park {
+  margin-bottom: false;
+}
+.arusha-to-seremgeti-national-p {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: var(--padding-14xl);
+}
+.arusha-to-seremgeti-container {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-6xl);
+  line-height: 140.12%;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-family: var(--font-chesna-grotesk-regular);
+}
+.frame-parent,
+.function-caller {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-parent {
+  width: 31.875rem;
+  gap: var(--gap-8xl);
+  font-size: var(--font-size-16xl);
+  font-family: var(--font-chesna-grotesk-black);
+}
+.function-caller {
+  flex: 1;
+  gap: var(--gap-34xl);
+  min-width: 35.25rem;
+}
+.included {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-family: inherit;
+}
+.frame-child {
+  height: 1.875rem;
+  width: 1.875rem;
+  position: relative;
+}
+.ground-transportation-in {
+  align-self: stretch;
+  position: relative;
+  text-transform: capitalize;
+}
+.filter,
+.instance-parent {
+  flex: 1;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.filter {
+  flex-direction: column;
+  padding: var(--padding-12xs) 0 0;
+}
+.instance-parent {
+  flex-direction: row;
+  gap: var(--gap-smi);
+  min-width: 11.125rem;
+}
+.frame-item {
+  height: 1.875rem;
+  width: 1.875rem;
+  position: relative;
+}
+.complimentary-mineral-water {
+  flex: 1;
+  position: relative;
+  text-transform: capitalize;
+}
+.instance-group {
+  height: 2.25rem;
+  width: 16.313rem;
+  flex-direction: row;
+  align-items: flex-start;
+  gap: var(--gap-smi);
+}
+.included-parent,
+.instance-group,
+.transformer {
+  display: flex;
+  justify-content: flex-start;
+}
+.transformer {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-end;
+  gap: var(--gap-25xl);
+  font-size: var(--font-size-lg);
+  font-family: var(--font-nexa-xbold);
+}
+.included-parent {
+  width: 36.188rem;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--gap-4xs);
+  max-width: 100%;
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-chesna-grotesk-black);
+}
+.frame-inner {
+  height: 1.875rem;
+  width: 1.875rem;
+  position: relative;
+}
+.accomodation {
+  position: relative;
+  text-transform: capitalize;
+  display: inline-block;
+  min-width: 7.875rem;
+}
+.instance-container,
+.queue {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.queue {
+  flex-direction: column;
+  padding: var(--padding-7xs) 0 0;
+}
+.instance-container {
+  height: 1.875rem;
+  flex-direction: row;
+  gap: var(--gap-smi);
+}
+.group-icon {
+  height: 1.875rem;
+  width: 1.875rem;
+  position: relative;
+}
+.round-trip-airport-transfer {
+  flex: 1;
+  position: relative;
+  text-transform: capitalize;
+}
+.frame-div,
+.multi-queue {
+  display: flex;
+  flex-direction: row;
+}
+.frame-div {
+  height: 2.25rem;
+  width: 13.563rem;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-smi);
+}
+.multi-queue {
+  width: 33.438rem;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  max-width: 100%;
+}
+.frame-child1 {
+  height: 1.875rem;
+  width: 1.875rem;
+  position: relative;
+}
+.knowledgeable-and-fluent {
+  flex: 1;
+  position: relative;
+  text-transform: capitalize;
+}
+.deque,
+.instance-parent1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.instance-parent1 {
+  align-self: stretch;
+  height: 2.25rem;
+  flex-direction: row;
+  gap: var(--gap-5xs);
+}
+.deque {
+  flex: 1;
+  flex-direction: column;
+  padding: var(--padding-7xs) 0 0;
+  box-sizing: border-box;
+  min-width: 11.313rem;
+}
+.trie-child {
+  height: 1.875rem;
+  width: 1.875rem;
+  position: relative;
+}
+.trie {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-21xl);
+}
+.frame-child2 {
+  height: 1.875rem;
+  width: 1.875rem;
+  position: relative;
+}
+.professional-english-speaking {
+  align-self: stretch;
+  position: relative;
+  text-transform: capitalize;
+}
+.input-filter {
+  flex: 1;
+  flex-direction: column;
+  padding: var(--padding-12xs) 0 0;
+}
+.depth-first-traversal,
+.input-filter,
+.instance-parent2 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.instance-parent2 {
+  align-self: stretch;
+  flex: 1;
+  flex-direction: row;
+  gap: var(--gap-smi);
+}
+.depth-first-traversal {
+  height: 2.688rem;
+  width: 15rem;
+  flex-direction: column;
+  padding: var(--padding-7xs) 0 0;
+  box-sizing: border-box;
+}
+.shortest-path-finder-child {
+  height: 1.875rem;
+  width: 1.875rem;
+  position: relative;
+}
+.heap,
+.shortest-path-finder {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+}
+.heap {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-mid);
+}
+.frame-child3 {
+  height: 1.875rem;
+  width: 1.875rem;
+  position: relative;
+}
+.all-meals-included {
+  align-self: stretch;
+  position: relative;
+  text-transform: capitalize;
+}
+.error-handler {
+  flex: 1;
+  flex-direction: column;
+  padding: var(--padding-12xs) 0 0;
+}
+.error-handler,
+.graph,
+.instance-parent3 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.instance-parent3 {
+  width: 19.063rem;
+  height: 2.313rem;
+  flex-direction: row;
+  gap: var(--gap-smi);
+}
+.graph {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-3xl);
+  min-width: 14.125rem;
+  max-width: 100%;
+}
+.full-coverage-of {
+  width: 14.313rem;
+  position: relative;
+  text-transform: capitalize;
+  display: inline-block;
+}
+.camping-equipment-tents {
+  align-self: stretch;
+  position: relative;
+  text-transform: capitalize;
+}
+.calculator,
+.function-applier,
+.hashing-table,
+.loop-manager {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.loop-manager {
+  align-self: stretch;
+  flex-direction: column;
+  gap: var(--gap-3xl);
+}
+.calculator,
+.function-applier,
+.hashing-table {
+  max-width: 100%;
+}
+.function-applier {
+  width: 20.5rem;
+  flex-direction: column;
+  padding: var(--padding-12xs) 0 0;
+  box-sizing: border-box;
+}
+.calculator,
+.hashing-table {
+  align-self: stretch;
+  flex-direction: row;
+  gap: var(--gap-4xs);
+}
+.calculator {
+  flex-direction: column;
+  gap: var(--gap-4xl);
+}
+.excluded {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-family: inherit;
+}
+.path-22-icon {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.instance-child {
+  position: absolute;
+  height: 8%;
+  width: 54%;
+  top: 46%;
+  right: 22.67%;
+  bottom: 46%;
+  left: 23.33%;
+  background-color: var(--color-darkorange);
+  z-index: 1;
+}
+.path-22-parent {
+  width: 1.875rem;
+  height: 1.875rem;
+  position: relative;
+  opacity: 0.59;
+}
+.path-22-icon1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.instance-item {
+  position: absolute;
+  height: 8%;
+  width: 54%;
+  top: 46%;
+  right: 22.67%;
+  bottom: 46%;
+  left: 23.33%;
+  background-color: var(--color-darkorange);
+  z-index: 1;
+}
+.path-22-group {
+  width: 1.875rem;
+  height: 1.875rem;
+  position: relative;
+  opacity: 0.59;
+}
+.path-22-icon2 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.instance-inner {
+  position: absolute;
+  height: 8%;
+  width: 54%;
+  top: 46%;
+  right: 22.67%;
+  bottom: 46%;
+  left: 23.33%;
+  background-color: var(--color-darkorange);
+  z-index: 1;
+}
+.path-22-container {
+  width: 1.875rem;
+  height: 1.875rem;
+  position: relative;
+  opacity: 0.59;
+}
+.path-22-icon3 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rectangle-div {
+  position: absolute;
+  height: 8%;
+  width: 54%;
+  top: 46%;
+  right: 22.67%;
+  bottom: 46%;
+  left: 23.33%;
+  background-color: var(--color-darkorange);
+  z-index: 1;
+}
+.group-div {
+  width: 1.875rem;
+  height: 1.875rem;
+  position: relative;
+  opacity: 0.59;
+}
+.instance-parent6 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xl);
+}
+.instance-parent5 {
+  gap: var(--gap-16xl);
+}
+.connector,
+.instance-parent4,
+.instance-parent5 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.instance-parent4 {
+  gap: var(--gap-27xl);
+}
+.connector {
+  padding: var(--padding-11xs) 0 0;
+}
+.international-airfare-flights {
+  align-self: stretch;
+  position: relative;
+  text-transform: capitalize;
+}
+.optional-excursions-and {
+  width: 15.938rem;
+  position: relative;
+  text-transform: capitalize;
+  display: inline-block;
+}
+.frame-wrapper,
+.international-airfare-flights-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.international-airfare-flights-parent {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-4xl);
+}
+.frame-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-10xs);
+}
+.alcoholic-beverages-and {
+  width: 16.313rem;
+  position: relative;
+  text-transform: capitalize;
+  display: inline-block;
+}
+.frame-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-9xl);
+}
+.visa-expenses {
+  position: relative;
+  text-transform: capitalize;
+}
+.visa-expenses-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-10xs);
+}
+.connection-creator-inner,
+.frame-group {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-group {
+  align-self: stretch;
+  gap: var(--gap-4xl);
+}
+.connection-creator-inner {
+  width: 17.563rem;
+  padding: var(--padding-11xs) 0 0;
+  box-sizing: border-box;
+}
+.path-22-icon4 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.instance-child1 {
+  position: absolute;
+  height: 8%;
+  width: 54%;
+  top: 46%;
+  right: 22.67%;
+  bottom: 46%;
+  left: 23.33%;
+  background-color: var(--color-darkorange);
+  z-index: 1;
+}
+.path-22-parent1 {
+  width: 1.875rem;
+  height: 1.875rem;
+  position: relative;
+  opacity: 0.59;
+}
+.path-22-icon5 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.instance-child2 {
+  position: absolute;
+  height: 8%;
+  width: 54%;
+  top: 46%;
+  right: 22.67%;
+  bottom: 46%;
+  left: 23.33%;
+  background-color: var(--color-darkorange);
+  z-index: 1;
+}
+.path-22-parent2 {
+  height: 1.875rem;
+  width: 1.875rem;
+  position: relative;
+  opacity: 0.59;
+}
+.instance-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-12xs);
+}
+.path-22-icon6 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.instance-child3 {
+  position: absolute;
+  height: 8%;
+  width: 54%;
+  top: 46%;
+  right: 22.67%;
+  bottom: 46%;
+  left: 23.33%;
+  background-color: var(--color-darkorange);
+  z-index: 1;
+}
+.path-22-parent3 {
+  width: 1.875rem;
+  height: 1.875rem;
+  position: relative;
+  opacity: 0.59;
+}
+.path-22-icon7 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.instance-child4 {
+  position: absolute;
+  height: 8%;
+  width: 54%;
+  top: 46%;
+  right: 22.67%;
+  bottom: 46%;
+  left: 23.33%;
+  background-color: var(--color-darkorange);
+  z-index: 1;
+}
+.path-22-parent4 {
+  width: 1.875rem;
+  height: 1.875rem;
+  position: relative;
+  opacity: 0.59;
+}
+.frame-parent1,
+.instance-parent7,
+.instance-parent8 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-lg);
+}
+.frame-parent1,
+.instance-parent7 {
+  gap: var(--gap-8xl);
+}
+.instance-parent7 {
+  align-items: flex-end;
+  gap: var(--gap-27xl);
+}
+.gratuities-tips {
+  position: relative;
+  text-transform: capitalize;
+}
+.gratuities-tips-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-12xs);
+}
+.personal-funds-for {
+  flex: 1;
+  position: relative;
+  text-transform: capitalize;
+}
+.data-transformer {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-12xs);
+}
+.travel-insurance {
+  position: relative;
+  text-transform: capitalize;
+}
+.error-handler1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-8xl);
+}
+.sleeping-bags {
+  position: relative;
+  text-transform: capitalize;
+  display: inline-block;
+  min-width: 7.813rem;
+}
+.condition-splitter,
+.input-filter1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-11xl);
+}
+.input-filter1 {
+  gap: var(--gap-33xl);
+}
+.data-aggregator {
+  flex: 1;
+  flex-direction: column;
+  padding: var(--padding-6xs) 0 0;
+  box-sizing: border-box;
+  min-width: 12.438rem;
+}
+.connection-creator,
+.data-aggregator,
+.excluded-parent,
+.randomizer {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.connection-creator {
+  align-self: stretch;
+  flex-direction: row;
+  gap: var(--gap-xs-7);
+  font-size: var(--font-size-lg);
+  font-family: var(--font-nexa-xbold);
+}
+.excluded-parent,
+.randomizer {
+  flex-direction: column;
+}
+.excluded-parent {
+  align-self: stretch;
+  gap: var(--gap-mid);
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-chesna-grotesk-black);
+}
+.randomizer {
+  width: 42.813rem;
+  gap: var(--gap-22xl);
+  min-width: 42.813rem;
+  max-width: 100%;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-nexa-xbold);
+}
+.variable-storage,
+.variable-storage-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  max-width: 100%;
+}
+.variable-storage {
+  width: 107rem;
+  gap: var(--gap-140xl);
+}
+.variable-storage-wrapper {
+  width: 117.375rem;
+  padding: 0 var(--padding-xl) 8.938rem;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--color-black);
+  font-family: var(--font-chesna-grotesk-regular);
+}
+.day-1-arusha {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-family: inherit;
+}
+.day-1-arusha-to-serengeti-nat-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-2xl) 0 var(--padding-xl);
+}
+.frame-child4,
+.rectangle-icon {
+  height: 22.438rem;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+  min-width: 24.75rem;
+  min-height: 22.438rem;
+}
+.frame-parent4,
+.frame-wrapper2,
+.rectangle-parent {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.rectangle-parent {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: var(--gap-57xl);
+}
+.frame-parent4,
+.frame-wrapper2 {
+  justify-content: flex-start;
+}
+.frame-parent4 {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-21xl);
+}
+.frame-wrapper2 {
+  width: 81rem;
+  flex-direction: row;
+  padding: 0 var(--padding-12xs);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-16xl);
+  font-family: var(--font-chewy);
+}
+.begin-your-morning,
+.experiencing-the-vastness,
+.staying-overnight-in {
+  margin: 0;
+}
+.begin-your-morning-container {
+  margin: 0;
+  height: 17.5rem;
+  width: 53.688rem;
+  position: relative;
+  font-size: inherit;
+  text-transform: capitalize;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.begin-your-morning-with-a-pick-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl) var(--padding-lgi) var(--padding-2xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.day-2-serengeti {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-family: inherit;
+}
+.day-2-serengeti-national-park-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl) 0 var(--padding-2xl);
+  text-align: left;
+  font-size: var(--font-size-16xl);
+  font-family: var(--font-chewy);
+}
+.frame-child5,
+.frame-child6 {
+  height: 22.438rem;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+  min-width: 24.75rem;
+  min-height: 22.438rem;
+}
+.frame-parent5,
+.rectangle-group {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.rectangle-group {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: var(--gap-57xl);
+}
+.frame-parent5 {
+  width: 80.875rem;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-21xl);
+}
+.migration-being-a,
+.prepare-for-a {
+  margin: 0;
+}
+.prepare-for-a-container {
+  margin: 0;
+  height: 13.125rem;
+  width: 53.688rem;
+  position: relative;
+  font-size: inherit;
+  text-transform: capitalize;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.prepare-for-a-full-day-wildlif-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl) 0 var(--padding-49xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.day-3-ngorongoro {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-family: inherit;
+}
+.day-3-ngorongoro-crater-wrapper {
+  width: 78.063rem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frame-child7,
+.frame-child8 {
+  height: 22.438rem;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+  min-width: 24.75rem;
+  min-height: 22.438rem;
+}
+.rectangle-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: center;
+  gap: var(--gap-57xl);
+  max-width: 100%;
+}
+.frame-parent6,
+.frame-wrapper3 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frame-parent6 {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-21xl);
+}
+.frame-wrapper3 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 0 var(--padding-4xl);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-16xl);
+  font-family: var(--font-chewy);
+}
+.set-off-on,
+.wonder-in-the {
+  margin: 0;
+}
+.set-off-on-container {
+  margin: 0;
+  height: 13.125rem;
+  width: 53.688rem;
+  position: relative;
+  font-size: inherit;
+  text-transform: capitalize;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.set-off-on-a-full-day-wildlife-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  padding: 0 var(--padding-xl) 0 var(--padding-95xl);
+  box-sizing: border-box;
+}
+.frame-parent3,
+.frame-wrapper1,
+.set-off-on-a-full-day-wildlife-wrapper {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.frame-parent3 {
+  flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: var(--gap-40xl);
+}
+.frame-wrapper1 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 0 var(--padding-10xs) 0 0;
+  box-sizing: border-box;
+}
+.packagecta-child {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-gainsboro-200);
+}
+.at-isles,
+.make-your-dream {
+  position: relative;
+  text-transform: capitalize;
+  z-index: 1;
+}
+.make-your-dream {
+  margin: 0;
+  width: 45.125rem;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.at-isles {
+  align-self: stretch;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-chesna-grotesk-regular);
+  text-align: left;
+}
+.make-your-dream-trip-come-true-parent {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-lgi);
+  min-width: 32.688rem;
+  max-width: 100%;
+}
+.request-this-trip {
+  position: relative;
+  font-size: var(--font-size-lg);
+  text-transform: uppercase;
+  font-family: var(--font-chesna-grotesk-black);
+  color: var(--color-black);
+  text-align: left;
+}
+.request-this-trip-wrapper {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-sm) var(--padding-xl);
+  background-color: var(--color-darkorange);
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  white-space: nowrap;
+  z-index: 1;
+}
+.request-this-trip-wrapper:hover {
+  background-color: var(--color-chocolate);
+}
+.packagecta-inner {
+  width: 21.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-6xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frame-parent2,
+.packagecta {
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.packagecta {
+  width: 80.875rem;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding: var(--padding-8xl) var(--padding-10xl) var(--padding-16xl)
+    var(--padding-19xl);
+  box-sizing: border-box;
+  position: relative;
+  gap: var(--gap-60xl);
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-chewy);
+}
+.frame-parent2 {
+  width: 82.5rem;
+  flex-direction: column;
+  gap: var(--gap-86xl);
+}
+.serengeti3day-inner {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl) var(--padding-73xl) var(--padding-25xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-6xl);
+  color: var(--color-black);
+  font-family: var(--font-chesna-grotesk-regular);
+}
+.serengeti3day {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-linen-100);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1575px) {
+  .randomizer {
+    flex: 1;
+  }
+  .variable-storage {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1275px) {
+  .variable-storage {
+    gap: 9.938rem 4.938rem;
+  }
+  .prepare-for-a-full-day-wildlif-wrapper {
+    padding-left: var(--padding-15xl);
+    box-sizing: border-box;
+  }
+  .set-off-on-a-full-day-wildlife-wrapper {
+    padding-left: 3.563rem;
+    box-sizing: border-box;
+  }
+  .serengeti3day-inner {
+    padding-left: var(--padding-3xl);
+    padding-bottom: var(--padding-20xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 825px) {
+  .day-serengeti-camping {
+    font-size: var(--font-size-17xl);
+  }
+  .network-manager-wrapper {
+    padding-bottom: var(--padding-34xl);
+    box-sizing: border-box;
+  }
+  .itinerary {
+    font-size: var(--font-size-9xl);
+  }
+  .function-caller {
+    min-width: 100%;
+  }
+  .included {
+    font-size: var(--font-size-5xl);
+  }
+  .transformer {
+    gap: 2.75rem 1.375rem;
+  }
+  .hashing-table,
+  .transformer {
+    flex-wrap: wrap;
+  }
+  .excluded {
+    font-size: var(--font-size-5xl);
+  }
+  .connection-creator {
+    flex-wrap: wrap;
+  }
+  .randomizer {
+    gap: 1.25rem 2.563rem;
+    min-width: 100%;
+  }
+  .variable-storage {
+    gap: 9.938rem 2.5rem;
+  }
+  .variable-storage-wrapper {
+    padding-bottom: var(--padding-74xl);
+    box-sizing: border-box;
+  }
+  .day-1-arusha {
+    font-size: var(--font-size-9xl);
+  }
+  .frame-child4,
+  .rectangle-icon {
+    min-width: 100%;
+  }
+  .rectangle-parent {
+    gap: var(--gap-19xl);
+  }
+  .frame-parent4 {
+    gap: 1.25rem 2.5rem;
+  }
+  .day-2-serengeti {
+    font-size: var(--font-size-9xl);
+  }
+  .frame-child5,
+  .frame-child6 {
+    min-width: 100%;
+  }
+  .rectangle-group {
+    gap: var(--gap-19xl);
+  }
+  .frame-parent5 {
+    gap: 1.25rem 2.5rem;
+  }
+  .day-3-ngorongoro {
+    font-size: var(--font-size-9xl);
+  }
+  .frame-child7,
+  .frame-child8 {
+    min-width: 100%;
+  }
+  .rectangle-container {
+    gap: var(--gap-19xl);
+  }
+  .frame-parent6 {
+    gap: 1.25rem 2.5rem;
+  }
+  .set-off-on-a-full-day-wildlife-wrapper {
+    padding-left: var(--padding-9xl);
+    box-sizing: border-box;
+  }
+  .frame-parent3 {
+    gap: 1.813rem 3.688rem;
+  }
+  .make-your-dream {
+    font-size: var(--font-size-5xl);
+  }
+  .make-your-dream-trip-come-true-parent {
+    min-width: 100%;
+  }
+  .packagecta {
+    gap: var(--gap-20xl);
+  }
+  .frame-parent2 {
+    gap: 3.25rem 6.563rem;
+  }
+  .serengeti3day-inner {
+    padding-bottom: var(--padding-6xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .day-serengeti-camping {
+    font-size: var(--font-size-8xl);
+  }
+  .embark-on-an-container {
+    font-size: var(--font-size-xl);
+  }
+  .itinerary {
+    font-size: var(--font-size-2xl);
+  }
+  .arusha-to-seremgeti-container {
+    font-size: var(--font-size-xl);
+    line-height: 1.75rem;
+  }
+  .function-caller {
+    gap: 1.625rem 3.313rem;
+  }
+  .included {
+    font-size: var(--font-size-lg);
+  }
+  .multi-queue {
+    flex-wrap: wrap;
+  }
+  .trie {
+    gap: 2.5rem 1.25rem;
+  }
+  .shortest-path-finder,
+  .trie {
+    flex-wrap: wrap;
+  }
+  .excluded {
+    font-size: var(--font-size-lg);
+  }
+  .input-filter1 {
+    gap: 1.625rem 3.25rem;
+  }
+  .variable-storage {
+    gap: 9.938rem 1.25rem;
+  }
+  .variable-storage-wrapper {
+    padding-bottom: var(--padding-41xl);
+    box-sizing: border-box;
+  }
+  .day-1-arusha {
+    font-size: var(--font-size-2xl);
+  }
+  .rectangle-parent {
+    gap: var(--gap-lgi);
+  }
+  .begin-your-morning-container {
+    font-size: var(--font-size-xl);
+  }
+  .day-2-serengeti {
+    font-size: var(--font-size-2xl);
+  }
+  .rectangle-group {
+    gap: var(--gap-lgi);
+  }
+  .prepare-for-a-container {
+    font-size: var(--font-size-xl);
+  }
+  .day-3-ngorongoro {
+    font-size: var(--font-size-2xl);
+  }
+  .rectangle-container {
+    gap: var(--gap-lgi);
+  }
+  .set-off-on-container {
+    font-size: var(--font-size-xl);
+  }
+  .make-your-dream {
+    font-size: var(--font-size-lg);
+  }
+  .packagecta {
+    gap: var(--gap-xl);
+  }
+  .frame-parent2 {
+    gap: 1.625rem 6.563rem;
+  }
+}

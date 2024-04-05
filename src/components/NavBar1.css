@@ -1,0 +1,110 @@
+.logo-icon4 {
+  height: 2.725rem;
+  width: 11.875rem;
+  position: relative;
+  min-height: 2.75rem;
+  cursor: pointer;
+}
+.packages1 {
+  position: relative;
+  display: inline-block;
+  min-width: 4.625rem;
+}
+.packages-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-3xs) 0 0;
+}
+.about3 {
+  position: relative;
+  display: inline-block;
+  min-width: 3.063rem;
+  cursor: pointer;
+}
+.c-t-a-button-customize {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-3xs) 0 0;
+}
+.contact6 {
+  position: relative;
+  display: inline-block;
+  min-width: 3.938rem;
+  cursor: pointer;
+}
+.c-t-a-button-customize1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-3xs) 0 0;
+}
+.customize-you-trip1 {
+  position: relative;
+  font-size: var(--font-size-base);
+  text-transform: capitalize;
+  font-family: var(--font-chesna-grotesk-black);
+  color: var(--color-white);
+  text-align: left;
+}
+.ctabutton4 {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-3xs);
+  background-color: var(--color-tomato-200);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  white-space: nowrap;
+}
+.ctabutton4:hover {
+  background-color: var(--color-tomato-100);
+}
+.navbar1,
+.navitems1 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.navitems1 {
+  margin: 0;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-xl);
+  gap: var(--gap-35xl);
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-chesna-grotesk-black);
+}
+.navbar1 {
+  align-self: stretch;
+  height: 5.5rem;
+  background-color: var(--color-antiquewhite);
+  align-items: flex-end;
+  justify-content: space-between;
+  padding: var(--padding-4xl) var(--padding-2xl) var(--padding-2xl-4)
+    var(--padding-24xl);
+  top: 0;
+  z-index: 99;
+  position: sticky;
+  gap: var(--gap-xl);
+}
+@media screen and (max-width: 1300px) {
+  .navbar1 {
+    padding-left: var(--padding-2xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 900px) {
+  .navitems1 {
+    display: none;
+    gap: 3.375rem 1.688rem;
+  }
+}

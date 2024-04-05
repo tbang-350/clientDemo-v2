@@ -1,0 +1,128 @@
+.homepagebanner-child,
+.homepagebanner-item {
+  position: absolute;
+  top: 15.5rem;
+  left: 5.156rem;
+  width: 21.25rem;
+  display: none;
+}
+.homepagebanner-item {
+  top: 20.063rem;
+  left: 4.938rem;
+  width: 21.688rem;
+  height: 1.75rem;
+}
+.backgroundimage-icon {
+  position: absolute;
+  width: 100%;
+  top: 0;
+  right: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  height: 28.063rem;
+  object-fit: cover;
+}
+.karibu-isles {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+}
+.karibu-isles-savannah-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs);
+}
+.embark-on-a {
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+}
+.opacity1 {
+  width: 27.813rem;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs);
+  box-sizing: border-box;
+  max-width: 100%;
+  z-index: 1;
+  margin-top: -0.812rem;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-chesna-grotesk-medium);
+}
+.frame-parent43,
+.homepagebanner-inner {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.homepagebanner-inner {
+  position: absolute;
+  top: 11.813rem;
+  left: 4.938rem;
+  flex-direction: row;
+  flex-wrap: wrap;
+  z-index: 1;
+}
+.build-your-safari {
+  flex: 1;
+  position: relative;
+  font-size: var(--font-size-base);
+  text-transform: capitalize;
+  font-family: var(--font-chesna-grotesk-black);
+  color: var(--color-white);
+  text-align: left;
+}
+.constraints {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-3xs);
+  background-color: var(--color-tomato-200);
+  position: absolute;
+  top: 21.813rem;
+  left: 5.313rem;
+  width: 9.875rem;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  white-space: nowrap;
+  z-index: 1;
+}
+.constraints:hover {
+  background-color: var(--color-tomato-100);
+}
+.homepagebanner {
+  align-self: stretch;
+  height: 28.063rem;
+  position: relative;
+  max-width: 100%;
+  z-index: 1;
+  text-align: left;
+  font-size: var(--font-size-26xl);
+  color: var(--color-white);
+  font-family: var(--font-chesna-grotesk-black);
+}
+@media screen and (max-width: 900px) {
+  .karibu-isles {
+    font-size: var(--font-size-17xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .karibu-isles {
+    font-size: var(--font-size-8xl);
+  }
+  .embark-on-a {
+    font-size: var(--font-size-base);
+  }
+}
